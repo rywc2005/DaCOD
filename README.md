@@ -37,7 +37,9 @@ The collaboration features are separated by Batch Split Block (BSB), and then se
 >>
 >>Download `55.pth` at [here](https://pan.baidu.com/s/1MIz-oyKxlit1jnxpYDuc1A) (Code: sj8w), and put it into `.\checkpoints\Depth_cod`
 
+## Google Drive
 
+All data can be downloaded from [google drive](https://drive.google.com/drive/folders/144jEAZz4ZAzWXCuYb3Zm7_mGspSJYgeo?usp=drive_link)
 
 ## Datasets
 
