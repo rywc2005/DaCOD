@@ -19,7 +19,7 @@ These comprehensive guides cover:
 - Model architecture detailed explanation
 - Training and inference pipelines
 - Key modules analysis with code examples
-- Usage guide and troubleshooting 
+- Usage guide and troubleshooting
 
 <p align="center">
     <img src="./Images/mm_generate_depth4.png"/> <br />
