@@ -5,7 +5,35 @@
 
 ## Preface
 
-##  🔥🔥🔥 This repository provides code for ["Depth-aided Camouflaged Object Detection"](https://dl.acm.org/doi/abs/10.1145/3581783.3611874) *ACM MM 2023*. 
+##  🔥🔥🔥 This repository provides code for ["Depth-aided Camouflaged Object Detection"](https://dl.acm.org/doi/abs/10.1145/3581783.3611874) *ACM MM 2023*.
+
+## 📚 Complete Project Documentation
+
+### Architecture Analysis Documents
+For a detailed full-process analysis of this project, please refer to:
+- **中文详细文档 (Chinese)**: [PROJECT_ANALYSIS_CN.md](PROJECT_ANALYSIS_CN.md) - 详细全流程完整解析
+- **English Documentation**: [PROJECT_ANALYSIS_EN.md](PROJECT_ANALYSIS_EN.md) - Complete workflow guide
+
+These comprehensive guides cover:
+- Project structure and architecture
+- Data preparation and organization
+- Model architecture detailed explanation
+- Training and inference pipelines
+- Key modules analysis with code examples
+- Usage guide and troubleshooting
+
+### Practical Usage Manuals
+For step-by-step instructions on running the code:
+- **中文使用手册 (Chinese)**: [USAGE_MANUAL_CN.md](USAGE_MANUAL_CN.md) - 基础详细的代码运行和使用手册
+- **English Usage Manual**: [USAGE_MANUAL_EN.md](USAGE_MANUAL_EN.md) - Practical code running guide
+
+These manuals provide:
+- System requirements and environment setup
+- Detailed installation instructions
+- Step-by-step training workflow
+- Testing and evaluation procedures
+- Troubleshooting guide
+- Custom data processing examples
 
 <p align="center">
     <img src="./Images/mm_generate_depth4.png"/> <br />
